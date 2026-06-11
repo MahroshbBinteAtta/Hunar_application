@@ -1,0 +1,26 @@
+# Python local environment & cache
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env
+
+# Node.js
+node_modules/
+dist/
+.npm
+frontend/.env
+frontend/.env.local
+frontend/dist/
+
+# Database files
+hunar_db.json
+
+# Local Uploads
+uploads/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store

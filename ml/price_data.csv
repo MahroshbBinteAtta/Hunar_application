@@ -1,0 +1,601 @@
+job_type,worker_tier,city_area,demand_index,historical_avg_price,suggested_price_pkr
+Electrician,Junior,Gulberg,80.9,1800.0,2500.0
+Carpenter,Mid,Gulberg,34.8,2810.0,3170.0
+Welder,Mid,Gulberg,52.3,2650.0,3240.0
+Gardener,Mid,Gulberg,84.1,1400.0,1800.0
+Plumber,Junior,DHA Phase 5,16.9,1440.0,1490.0
+Electrician,Mid,Gulberg,79.1,2340.0,3180.0
+Security Guard,Mid,Anarkali,16.2,1690.0,1880.0
+Painter,Junior,DHA Phase 5,91.0,1680.0,2460.0
+Painter,Junior,Gulberg,21.0,1680.0,1600.0
+Plumber,Mid,Johar Town,67.9,1560.0,2140.0
+Electrician,Junior,DHA Phase 5,29.1,1800.0,2030.0
+Driver,Senior,Johar Town,61.8,3200.0,4130.0
+Security Guard,Junior,Johar Town,76.6,1300.0,1880.0
+Security Guard,Senior,Johar Town,53.0,2080.0,2800.0
+Carpenter,Mid,Gulberg,33.3,2810.0,3320.0
+Welder,Junior,Johar Town,32.1,1700.0,1970.0
+Painter,Senior,DHA Phase 5,80.3,2690.0,3610.0
+Painter,Junior,Gulberg,26.3,1680.0,1910.0
+Gardener,Junior,Johar Town,91.7,900.0,1250.0
+Electrician,Junior,DHA Phase 5,80.5,1800.0,2550.0
+Gardener,Junior,Anarkali,48.2,900.0,1130.0
+Electrician,Senior,Anarkali,29.8,2400.0,2880.0
+Carpenter,Junior,Gulberg,34.9,2160.0,2570.0
+Security Guard,Senior,Gulberg,79.8,2500.0,3480.0
+AC Technician,Mid,Gulberg,73.4,3120.0,4230.0
+AC Technician,Senior,DHA Phase 5,70.7,3840.0,5220.0
+Carpenter,Junior,Gulberg,67.5,2160.0,2940.0
+Cook,Junior,DHA Phase 5,67.4,1320.0,1920.0
+Cook,Junior,Gulberg,47.8,1320.0,1580.0
+Welder,Senior,Anarkali,71.6,2720.0,3790.0
+Plumber,Mid,Anarkali,36.6,1560.0,1720.0
+Plumber,Junior,Gulberg,82.0,1440.0,2070.0
+Welder,Senior,Model Town,35.1,2720.0,3230.0
+Welder,Mid,Model Town,13.3,2210.0,2310.0
+Painter,Senior,Gulberg,26.1,2690.0,3050.0
+Mason,Junior,DHA Phase 5,23.4,1920.0,2160.0
+Plumber,Junior,Gulberg,44.5,1440.0,1960.0
+Driver,Senior,DHA Phase 5,13.5,3840.0,4200.0
+Painter,Mid,Model Town,13.7,1820.0,1950.0
+Plumber,Junior,Anarkali,14.8,1200.0,1280.0
+Welder,Mid,Anarkali,24.0,2210.0,2430.0
+Electrician,Senior,DHA Phase 5,51.1,2880.0,3720.0
+Plumber,Junior,Model Town,16.2,1200.0,1370.0
+Mason,Senior,Gulberg,74.0,3070.0,4300.0
+Welder,Senior,Anarkali,35.4,2720.0,3320.0
+Welder,Mid,Gulberg,12.7,2650.0,2900.0
+Painter,Senior,Anarkali,75.4,2240.0,3140.0
+Mason,Senior,Johar Town,54.0,2560.0,3410.0
+Painter,Junior,Gulberg,14.5,1680.0,1850.0
+Carpenter,Senior,DHA Phase 5,62.3,3460.0,4440.0
+Driver,Mid,Model Town,24.4,2600.0,2910.0
+Security Guard,Mid,Gulberg,58.4,2030.0,2560.0
+Carpenter,Senior,Gulberg,67.6,3460.0,4670.0
+Carpenter,Junior,Johar Town,86.3,1800.0,2670.0
+Painter,Junior,Model Town,57.6,1400.0,1700.0
+Mason,Senior,DHA Phase 5,38.9,3070.0,3670.0
+Welder,Junior,Anarkali,41.2,1700.0,2030.0
+Security Guard,Mid,Johar Town,16.2,1690.0,1810.0
+Carpenter,Mid,DHA Phase 5,89.1,2810.0,4140.0
+Mason,Mid,Anarkali,88.9,2080.0,2990.0
+Electrician,Senior,Model Town,56.1,2400.0,3010.0
+Mason,Mid,DHA Phase 5,91.6,2500.0,3480.0
+Tutor,Junior,Anarkali,53.9,1000.0,1160.0
+Carpenter,Mid,DHA Phase 5,23.9,2810.0,3050.0
+Plumber,Junior,Johar Town,24.6,1200.0,1450.0
+Security Guard,Junior,Johar Town,88.3,1300.0,1860.0
+AC Technician,Junior,DHA Phase 5,54.1,2400.0,2940.0
+Gardener,Junior,Gulberg,84.9,1080.0,1530.0
+Mason,Junior,Model Town,70.6,1600.0,2180.0
+Welder,Senior,Gulberg,54.9,3260.0,4210.0
+Driver,Mid,Anarkali,82.9,2600.0,3720.0
+Painter,Mid,Model Town,12.2,1820.0,2040.0
+Carpenter,Junior,Anarkali,89.3,1800.0,2550.0
+Tutor,Junior,DHA Phase 5,11.1,1200.0,1260.0
+Carpenter,Mid,Anarkali,12.1,2340.0,2550.0
+Electrician,Senior,Model Town,32.4,2400.0,2800.0
+Cook,Junior,Model Town,22.5,1100.0,1280.0
+Tutor,Senior,Gulberg,29.9,1920.0,2130.0
+Painter,Senior,DHA Phase 5,31.0,2690.0,3070.0
+Plumber,Senior,Model Town,30.3,1920.0,2390.0
+Plumber,Junior,Gulberg,29.5,1440.0,1520.0
+Painter,Senior,DHA Phase 5,63.1,2690.0,3480.0
+Plumber,Junior,Johar Town,45.0,1200.0,1490.0
+Gardener,Mid,Anarkali,82.7,1170.0,1450.0
+AC Technician,Mid,DHA Phase 5,13.0,3120.0,3200.0
+Painter,Senior,Gulberg,27.6,2690.0,2810.0
+Carpenter,Mid,Anarkali,15.7,2340.0,2440.0
+Plumber,Senior,Anarkali,62.2,1920.0,2520.0
+Driver,Junior,DHA Phase 5,20.1,2400.0,2770.0
+Gardener,Junior,DHA Phase 5,35.1,1080.0,1000.0
+Driver,Junior,Gulberg,85.0,2400.0,3400.0
+Driver,Mid,Johar Town,10.8,2600.0,2590.0
+Security Guard,Mid,Johar Town,39.4,1690.0,2130.0
+Welder,Senior,Johar Town,81.3,2720.0,3830.0
+Plumber,Mid,DHA Phase 5,43.0,1870.0,2370.0
+Tutor,Mid,Johar Town,48.9,1300.0,1720.0
+Tutor,Senior,Model Town,90.3,1600.0,2340.0
+Painter,Mid,Gulberg,52.8,2180.0,2730.0
+Tutor,Senior,DHA Phase 5,86.2,1920.0,2880.0
+Tutor,Junior,DHA Phase 5,31.9,1200.0,1410.0
+Carpenter,Senior,Anarkali,50.7,2880.0,3710.0
+Electrician,Senior,Anarkali,21.1,2400.0,2610.0
+Cook,Mid,Model Town,55.7,1430.0,1960.0
+Electrician,Senior,Gulberg,61.8,2880.0,3740.0
+Cook,Junior,DHA Phase 5,19.2,1320.0,1600.0
+Driver,Senior,DHA Phase 5,36.9,3840.0,4650.0
+Plumber,Senior,Anarkali,75.7,1920.0,2500.0
+Electrician,Mid,DHA Phase 5,75.4,2340.0,3050.0
+Tutor,Junior,Model Town,53.3,1000.0,1370.0
+Tutor,Senior,Johar Town,65.1,1600.0,2080.0
+Mason,Junior,DHA Phase 5,72.0,1920.0,2570.0
+Driver,Senior,Anarkali,39.4,3200.0,3930.0
+Tutor,Senior,Johar Town,84.8,1600.0,2350.0
+Driver,Mid,Model Town,13.3,2600.0,2740.0
+AC Technician,Senior,DHA Phase 5,86.3,3840.0,5570.0
+Security Guard,Junior,Anarkali,68.5,1300.0,1810.0
+Painter,Senior,Model Town,32.0,2240.0,2610.0
+Carpenter,Senior,Johar Town,53.9,2880.0,3740.0
+Tutor,Senior,Anarkali,27.9,1600.0,1910.0
+Cook,Senior,DHA Phase 5,51.0,2110.0,2740.0
+Tutor,Junior,Gulberg,68.4,1200.0,1560.0
+Painter,Senior,Johar Town,57.6,2240.0,2900.0
+Carpenter,Senior,Gulberg,70.0,3460.0,4710.0
+Welder,Mid,Johar Town,68.4,2210.0,2770.0
+AC Technician,Junior,Johar Town,68.9,2000.0,2790.0
+Cook,Mid,Gulberg,67.2,1720.0,2260.0
+Security Guard,Mid,Johar Town,78.3,1690.0,2460.0
+Tutor,Mid,DHA Phase 5,86.0,1560.0,2350.0
+AC Technician,Mid,Anarkali,48.6,2600.0,3230.0
+Carpenter,Mid,Johar Town,80.2,2340.0,3290.0
+Tutor,Senior,DHA Phase 5,64.6,1920.0,2390.0
+Gardener,Junior,Anarkali,84.3,900.0,1320.0
+Mason,Senior,Johar Town,55.3,2560.0,3320.0
+Driver,Junior,Gulberg,32.8,2400.0,2700.0
+Carpenter,Junior,DHA Phase 5,21.8,2160.0,2380.0
+Welder,Senior,Gulberg,70.0,3260.0,4430.0
+Security Guard,Junior,Model Town,38.6,1300.0,1620.0
+AC Technician,Junior,Gulberg,37.9,2400.0,2660.0
+Painter,Junior,Gulberg,10.8,1680.0,1640.0
+Driver,Junior,Gulberg,27.8,2400.0,2680.0
+Electrician,Mid,Johar Town,68.3,1950.0,2580.0
+Driver,Junior,Johar Town,61.8,2000.0,2440.0
+Welder,Senior,Model Town,22.1,2720.0,3140.0
+Welder,Mid,DHA Phase 5,85.9,2650.0,3940.0
+Driver,Senior,Johar Town,29.5,3200.0,3420.0
+Tutor,Mid,Anarkali,47.7,1300.0,1650.0
+Cook,Junior,Model Town,17.1,1100.0,1200.0
+Security Guard,Mid,Gulberg,31.0,2030.0,2400.0
+Welder,Senior,DHA Phase 5,87.4,3260.0,4760.0
+Gardener,Senior,Gulberg,52.1,1730.0,2260.0
+Gardener,Mid,Model Town,11.5,1170.0,1310.0
+Tutor,Senior,Johar Town,72.1,1600.0,2110.0
+Welder,Mid,Anarkali,67.7,2210.0,2910.0
+Driver,Junior,DHA Phase 5,34.1,2400.0,2880.0
+Plumber,Mid,Anarkali,50.4,1560.0,1880.0
+AC Technician,Mid,Anarkali,36.4,2600.0,3230.0
+Cook,Mid,Johar Town,45.3,1430.0,1850.0
+Carpenter,Mid,Gulberg,70.2,2810.0,3760.0
+Cook,Senior,Gulberg,30.5,2110.0,2370.0
+Plumber,Junior,DHA Phase 5,18.8,1440.0,1630.0
+AC Technician,Mid,Model Town,67.6,2600.0,3390.0
+Cook,Junior,Model Town,20.8,1100.0,1150.0
+Driver,Mid,Model Town,19.2,2600.0,2590.0
+Cook,Junior,DHA Phase 5,65.3,1320.0,1690.0
+Driver,Junior,Gulberg,30.1,2400.0,2690.0
+Carpenter,Senior,Anarkali,14.8,2880.0,3050.0
+Cook,Senior,Anarkali,94.6,1760.0,2660.0
+Mason,Junior,Gulberg,89.6,1920.0,2550.0
+Security Guard,Mid,Gulberg,69.1,2030.0,2760.0
+Plumber,Mid,Johar Town,42.1,1560.0,2000.0
+Mason,Senior,Model Town,44.6,2560.0,3010.0
+Plumber,Junior,Anarkali,44.5,1200.0,1430.0
+Electrician,Senior,Gulberg,36.0,2880.0,3550.0
+Gardener,Senior,Anarkali,86.3,1440.0,1980.0
+Gardener,Senior,Johar Town,93.2,1440.0,2250.0
+Painter,Mid,Anarkali,84.1,1820.0,2560.0
+Carpenter,Junior,Johar Town,92.9,1800.0,2710.0
+Tutor,Senior,DHA Phase 5,27.3,1920.0,2320.0
+Painter,Senior,Anarkali,18.6,2240.0,2430.0
+Tutor,Mid,Model Town,70.4,1300.0,1580.0
+Painter,Senior,Anarkali,66.8,2240.0,2900.0
+Carpenter,Senior,Model Town,77.8,2880.0,4110.0
+Mason,Junior,Gulberg,37.9,1920.0,2260.0
+Painter,Mid,Model Town,74.5,1820.0,2630.0
+Driver,Mid,Johar Town,19.2,2600.0,2690.0
+Driver,Junior,Johar Town,85.3,2000.0,2750.0
+Mason,Senior,Gulberg,43.8,3070.0,3790.0
+Electrician,Mid,Anarkali,29.2,1950.0,2290.0
+Security Guard,Junior,Johar Town,67.1,1300.0,1790.0
+Security Guard,Senior,Anarkali,92.4,2080.0,3000.0
+Painter,Junior,Anarkali,81.1,1400.0,1990.0
+Gardener,Senior,Anarkali,64.8,1440.0,1840.0
+Tutor,Senior,Anarkali,13.4,1600.0,1790.0
+Security Guard,Mid,Model Town,38.7,1690.0,2050.0
+Gardener,Senior,Johar Town,64.4,1440.0,1640.0
+Gardener,Mid,Model Town,43.6,1170.0,1500.0
+Cook,Mid,DHA Phase 5,15.0,1720.0,1800.0
+AC Technician,Senior,Gulberg,69.2,3840.0,5140.0
+Painter,Senior,Anarkali,20.7,2240.0,2330.0
+Security Guard,Junior,DHA Phase 5,86.8,1560.0,2130.0
+Gardener,Mid,Anarkali,49.3,1170.0,1440.0
+Mason,Senior,Gulberg,49.3,3070.0,3890.0
+Security Guard,Junior,Model Town,12.3,1300.0,1430.0
+Gardener,Junior,Gulberg,74.0,1080.0,1690.0
+Cook,Junior,Johar Town,56.6,1100.0,1360.0
+Security Guard,Mid,Model Town,34.0,1690.0,1910.0
+Welder,Junior,Gulberg,40.8,2040.0,2460.0
+Tutor,Junior,Anarkali,69.8,1000.0,1370.0
+Electrician,Mid,Model Town,23.3,1950.0,2190.0
+AC Technician,Senior,Gulberg,73.2,3840.0,5060.0
+Gardener,Senior,Model Town,52.5,1440.0,1950.0
+Driver,Senior,Johar Town,37.5,3200.0,3730.0
+Electrician,Mid,DHA Phase 5,67.0,2340.0,3140.0
+Security Guard,Junior,Gulberg,50.0,1560.0,1760.0
+Mason,Senior,Anarkali,52.4,2560.0,3330.0
+Gardener,Senior,Anarkali,81.9,1440.0,2130.0
+Tutor,Senior,Anarkali,30.5,1600.0,1800.0
+Driver,Mid,Model Town,48.1,2600.0,3120.0
+AC Technician,Senior,DHA Phase 5,37.0,3840.0,4540.0
+Cook,Junior,Model Town,42.2,1100.0,1560.0
+Gardener,Senior,Model Town,76.6,1440.0,1950.0
+Mason,Senior,Model Town,93.8,2560.0,3680.0
+Tutor,Senior,Anarkali,15.4,1600.0,1680.0
+Mason,Mid,Anarkali,48.3,2080.0,2590.0
+Cook,Junior,Anarkali,65.6,1100.0,1450.0
+Welder,Mid,Anarkali,60.0,2210.0,2770.0
+Plumber,Senior,Gulberg,69.1,2300.0,3020.0
+Driver,Junior,Gulberg,87.5,2400.0,3370.0
+Mason,Junior,Anarkali,91.8,1600.0,2400.0
+Mason,Junior,Model Town,91.0,1600.0,2300.0
+Carpenter,Mid,Gulberg,11.9,2810.0,2910.0
+Security Guard,Junior,Model Town,69.9,1300.0,1780.0
+Painter,Senior,Anarkali,10.3,2240.0,2290.0
+Security Guard,Junior,DHA Phase 5,71.2,1560.0,2090.0
+Painter,Junior,Johar Town,25.4,1400.0,1600.0
+AC Technician,Junior,Gulberg,49.8,2400.0,2870.0
+Welder,Senior,DHA Phase 5,57.1,3260.0,4220.0
+Tutor,Mid,Anarkali,68.7,1300.0,1710.0
+Security Guard,Mid,Anarkali,88.4,1690.0,2460.0
+Carpenter,Mid,Model Town,70.6,2340.0,3050.0
+Welder,Junior,Johar Town,32.4,1700.0,2090.0
+Painter,Junior,Model Town,51.6,1400.0,1820.0
+Driver,Mid,Johar Town,11.9,2600.0,2870.0
+Welder,Senior,DHA Phase 5,43.3,3260.0,4010.0
+Painter,Senior,Gulberg,44.6,2690.0,3300.0
+Painter,Junior,Johar Town,37.5,1400.0,1770.0
+Mason,Junior,Model Town,60.6,1600.0,2080.0
+AC Technician,Mid,DHA Phase 5,78.2,3120.0,4280.0
+Gardener,Senior,Johar Town,60.5,1440.0,1860.0
+Cook,Senior,Anarkali,66.5,1760.0,2390.0
+Welder,Senior,Model Town,56.1,2720.0,3470.0
+Gardener,Junior,Anarkali,48.1,900.0,1050.0
+Tutor,Mid,DHA Phase 5,26.9,1560.0,1620.0
+Carpenter,Mid,Anarkali,32.8,2340.0,2840.0
+Welder,Mid,Johar Town,75.3,2210.0,2910.0
+Welder,Senior,Gulberg,78.4,3260.0,4580.0
+Welder,Junior,Model Town,82.0,1700.0,2350.0
+Carpenter,Mid,DHA Phase 5,61.1,2810.0,3540.0
+Gardener,Junior,Johar Town,83.2,900.0,1100.0
+Gardener,Junior,Model Town,31.2,900.0,1130.0
+Driver,Junior,Anarkali,94.4,2000.0,2980.0
+Gardener,Senior,DHA Phase 5,74.5,1730.0,2590.0
+Electrician,Senior,DHA Phase 5,52.7,2880.0,3660.0
+Carpenter,Mid,DHA Phase 5,80.9,2810.0,3890.0
+Gardener,Senior,Model Town,49.7,1440.0,1910.0
+Gardener,Mid,Anarkali,13.0,1170.0,1080.0
+Cook,Senior,Model Town,48.8,1760.0,2120.0
+Cook,Senior,Johar Town,80.3,1760.0,2300.0
+Welder,Junior,Gulberg,48.2,2040.0,2480.0
+Painter,Senior,Gulberg,71.1,2690.0,3580.0
+Carpenter,Mid,DHA Phase 5,52.5,2810.0,3490.0
+Plumber,Mid,Gulberg,48.2,1870.0,2180.0
+Gardener,Junior,Johar Town,46.9,900.0,1130.0
+Tutor,Senior,Model Town,86.4,1600.0,2280.0
+Carpenter,Mid,Johar Town,53.6,2340.0,2970.0
+Driver,Mid,Model Town,15.1,2600.0,2710.0
+Security Guard,Junior,DHA Phase 5,43.9,1560.0,1860.0
+Driver,Junior,Anarkali,93.9,2000.0,2910.0
+Plumber,Senior,DHA Phase 5,65.1,2300.0,3150.0
+Driver,Junior,Johar Town,54.5,2000.0,2430.0
+Welder,Mid,Gulberg,65.1,2650.0,3280.0
+Security Guard,Junior,Anarkali,73.2,1300.0,1700.0
+Mason,Junior,Johar Town,53.0,1600.0,2020.0
+Plumber,Mid,Anarkali,73.1,1560.0,2250.0
+Security Guard,Junior,DHA Phase 5,80.7,1560.0,2290.0
+Carpenter,Junior,Gulberg,28.3,2160.0,2330.0
+Cook,Mid,DHA Phase 5,42.8,1720.0,1990.0
+Driver,Mid,DHA Phase 5,48.1,3120.0,3850.0
+Security Guard,Senior,Johar Town,72.4,2080.0,2730.0
+Security Guard,Junior,DHA Phase 5,74.7,1560.0,2220.0
+Carpenter,Mid,DHA Phase 5,26.7,2810.0,3180.0
+Tutor,Junior,DHA Phase 5,91.4,1200.0,1710.0
+Mason,Senior,Gulberg,45.5,3070.0,3830.0
+Driver,Senior,Anarkali,78.5,3200.0,4370.0
+Cook,Mid,Anarkali,77.3,1430.0,1900.0
+Painter,Mid,Gulberg,24.5,2180.0,2370.0
+Tutor,Mid,DHA Phase 5,55.5,1560.0,1900.0
+Tutor,Junior,Johar Town,19.4,1000.0,1190.0
+Gardener,Mid,DHA Phase 5,37.2,1400.0,1590.0
+Painter,Junior,Anarkali,58.1,1400.0,1760.0
+Carpenter,Senior,Anarkali,19.7,2880.0,2830.0
+Gardener,Junior,Gulberg,53.3,1080.0,1220.0
+AC Technician,Mid,DHA Phase 5,53.1,3120.0,4080.0
+Electrician,Mid,Anarkali,75.0,1950.0,2470.0
+Driver,Mid,DHA Phase 5,45.3,3120.0,3820.0
+Painter,Junior,Johar Town,20.4,1400.0,1500.0
+Cook,Mid,DHA Phase 5,65.6,1720.0,2150.0
+Security Guard,Junior,DHA Phase 5,36.7,1560.0,1690.0
+Mason,Mid,Johar Town,45.4,2080.0,2530.0
+Tutor,Junior,Anarkali,39.2,1000.0,1360.0
+Plumber,Senior,Anarkali,13.6,1920.0,1990.0
+Driver,Junior,Anarkali,77.9,2000.0,2720.0
+Plumber,Mid,Anarkali,84.5,1560.0,2340.0
+AC Technician,Mid,Anarkali,89.3,2600.0,3690.0
+Painter,Mid,Anarkali,54.7,1820.0,2510.0
+Driver,Junior,Gulberg,88.2,2400.0,3470.0
+Painter,Senior,DHA Phase 5,18.9,2690.0,2940.0
+Driver,Senior,Johar Town,81.0,3200.0,4550.0
+Cook,Mid,Anarkali,45.5,1430.0,1810.0
+Carpenter,Junior,Anarkali,39.8,1800.0,2130.0
+Electrician,Junior,Johar Town,89.8,1500.0,2110.0
+Electrician,Mid,DHA Phase 5,68.6,2340.0,3240.0
+AC Technician,Mid,Johar Town,24.8,2600.0,3030.0
+Mason,Senior,DHA Phase 5,21.9,3070.0,3490.0
+Driver,Junior,DHA Phase 5,41.0,2400.0,2710.0
+Cook,Mid,Model Town,55.2,1430.0,1860.0
+Security Guard,Junior,Johar Town,46.4,1300.0,1680.0
+Driver,Mid,Johar Town,11.7,2600.0,2730.0
+Security Guard,Junior,Anarkali,58.5,1300.0,1700.0
+Welder,Senior,Model Town,62.3,2720.0,3530.0
+Electrician,Mid,Gulberg,20.5,2340.0,2610.0
+Security Guard,Senior,DHA Phase 5,45.8,2500.0,3010.0
+Tutor,Mid,DHA Phase 5,17.5,1560.0,1730.0
+Mason,Junior,Johar Town,74.2,1600.0,2290.0
+Driver,Senior,Anarkali,89.1,3200.0,4570.0
+Security Guard,Mid,DHA Phase 5,33.6,2030.0,2250.0
+Plumber,Senior,Anarkali,84.4,1920.0,2690.0
+Plumber,Mid,Anarkali,28.2,1560.0,1890.0
+Cook,Junior,Model Town,11.0,1100.0,1100.0
+Welder,Junior,Anarkali,78.3,1700.0,2230.0
+Tutor,Senior,Gulberg,67.7,1920.0,2580.0
+Electrician,Mid,Anarkali,46.5,1950.0,2210.0
+Tutor,Junior,DHA Phase 5,32.3,1200.0,1460.0
+Welder,Junior,Johar Town,57.0,1700.0,2240.0
+Plumber,Junior,Gulberg,49.0,1440.0,1780.0
+Carpenter,Junior,DHA Phase 5,50.5,2160.0,2720.0
+Painter,Junior,Gulberg,41.8,1680.0,1840.0
+AC Technician,Mid,Anarkali,13.5,2600.0,2860.0
+Plumber,Mid,Gulberg,55.2,1870.0,2280.0
+Welder,Junior,Model Town,20.1,1700.0,2070.0
+Electrician,Junior,Model Town,75.5,1500.0,2010.0
+Tutor,Junior,Model Town,66.0,1000.0,1390.0
+Driver,Senior,Johar Town,84.2,3200.0,4510.0
+Plumber,Mid,Anarkali,13.5,1560.0,1570.0
+Carpenter,Junior,Anarkali,48.6,1800.0,2160.0
+Plumber,Mid,Gulberg,69.7,1870.0,2500.0
+Plumber,Mid,DHA Phase 5,66.4,1870.0,2390.0
+Tutor,Mid,Anarkali,58.6,1300.0,1680.0
+Gardener,Senior,Model Town,13.5,1440.0,1600.0
+Mason,Senior,Gulberg,40.4,3070.0,3710.0
+Driver,Senior,Anarkali,79.0,3200.0,4490.0
+Security Guard,Senior,Johar Town,33.5,2080.0,2410.0
+Plumber,Junior,Model Town,53.7,1200.0,1580.0
+Cook,Mid,Model Town,41.4,1430.0,1810.0
+Driver,Senior,Gulberg,27.4,3840.0,4440.0
+Driver,Mid,Anarkali,38.1,2600.0,3020.0
+Painter,Junior,Anarkali,82.6,1400.0,2090.0
+Security Guard,Senior,Anarkali,42.2,2080.0,2620.0
+Painter,Junior,DHA Phase 5,34.6,1680.0,2000.0
+Cook,Senior,DHA Phase 5,75.6,2110.0,2790.0
+Driver,Mid,Johar Town,89.1,2600.0,3770.0
+Electrician,Mid,Anarkali,51.9,1950.0,2550.0
+Security Guard,Senior,Model Town,13.6,2080.0,2120.0
+Cook,Mid,DHA Phase 5,93.8,1720.0,2510.0
+Electrician,Senior,Anarkali,91.7,2400.0,3600.0
+Tutor,Junior,Model Town,45.3,1000.0,1380.0
+AC Technician,Junior,Gulberg,55.5,2400.0,3140.0
+Security Guard,Senior,DHA Phase 5,31.4,2500.0,3020.0
+Driver,Mid,Anarkali,40.6,2600.0,3170.0
+Mason,Mid,Johar Town,60.7,2080.0,2600.0
+Welder,Junior,Anarkali,80.9,1700.0,2570.0
+Driver,Junior,Johar Town,52.3,2000.0,2520.0
+Security Guard,Senior,Anarkali,89.3,2080.0,2900.0
+Painter,Junior,Gulberg,30.4,1680.0,1840.0
+Carpenter,Mid,Gulberg,91.6,2810.0,4110.0
+Gardener,Junior,Model Town,24.6,900.0,920.0
+Driver,Mid,Anarkali,12.6,2600.0,2660.0
+Cook,Junior,Anarkali,61.1,1100.0,1660.0
+Mason,Junior,Model Town,46.5,1600.0,2090.0
+Welder,Mid,Johar Town,67.5,2210.0,3060.0
+Carpenter,Junior,Anarkali,36.4,1800.0,2220.0
+Electrician,Junior,DHA Phase 5,11.3,1800.0,1970.0
+Driver,Mid,Model Town,44.4,2600.0,3360.0
+Plumber,Senior,Model Town,41.9,1920.0,2360.0
+Electrician,Junior,Model Town,63.7,1500.0,1820.0
+Cook,Mid,Model Town,87.4,1430.0,2070.0
+Electrician,Junior,DHA Phase 5,86.5,1800.0,2490.0
+Carpenter,Senior,DHA Phase 5,54.3,3460.0,4230.0
+Welder,Mid,Model Town,20.4,2210.0,2400.0
+Security Guard,Senior,Model Town,72.4,2080.0,2830.0
+Cook,Senior,Anarkali,45.2,1760.0,2160.0
+Plumber,Junior,Model Town,53.6,1200.0,1480.0
+Security Guard,Junior,Anarkali,26.9,1300.0,1420.0
+Welder,Senior,DHA Phase 5,63.9,3260.0,4220.0
+Carpenter,Mid,DHA Phase 5,40.3,2810.0,3270.0
+Cook,Junior,DHA Phase 5,48.6,1320.0,1840.0
+Mason,Junior,Model Town,35.2,1600.0,1890.0
+Painter,Junior,Johar Town,34.6,1400.0,1660.0
+Driver,Mid,Anarkali,78.9,2600.0,3430.0
+AC Technician,Junior,DHA Phase 5,16.8,2400.0,2660.0
+Welder,Mid,Gulberg,72.2,2650.0,3600.0
+AC Technician,Mid,DHA Phase 5,77.6,3120.0,4330.0
+Electrician,Junior,Gulberg,63.5,1800.0,2420.0
+Tutor,Mid,Model Town,90.2,1300.0,1860.0
+Painter,Senior,Model Town,52.9,2240.0,2790.0
+Painter,Mid,Johar Town,52.0,1820.0,2270.0
+AC Technician,Junior,Model Town,57.2,2000.0,2670.0
+Gardener,Junior,Model Town,78.4,900.0,1400.0
+Cook,Mid,Model Town,85.2,1430.0,1910.0
+Plumber,Junior,Johar Town,49.3,1200.0,1460.0
+Tutor,Senior,Gulberg,47.5,1920.0,2410.0
+Welder,Junior,Anarkali,71.4,1700.0,2340.0
+Tutor,Mid,Model Town,67.3,1300.0,1620.0
+Cook,Junior,Gulberg,74.7,1320.0,1870.0
+Painter,Mid,Model Town,19.6,1820.0,2040.0
+Gardener,Senior,Gulberg,35.1,1730.0,2040.0
+Cook,Mid,Johar Town,68.4,1430.0,2110.0
+Cook,Senior,Model Town,56.5,1760.0,2240.0
+Security Guard,Senior,Johar Town,55.2,2080.0,2660.0
+Painter,Mid,DHA Phase 5,76.4,2180.0,3100.0
+Cook,Mid,Anarkali,35.3,1430.0,1580.0
+Electrician,Senior,Model Town,93.8,2400.0,3610.0
+Driver,Senior,Model Town,66.5,3200.0,4410.0
+Plumber,Senior,Anarkali,90.7,1920.0,2710.0
+Welder,Mid,Model Town,55.9,2210.0,2970.0
+AC Technician,Senior,Model Town,68.4,3200.0,4350.0
+Electrician,Senior,Johar Town,11.1,2400.0,2360.0
+Electrician,Junior,DHA Phase 5,26.9,1800.0,1920.0
+Welder,Junior,Gulberg,19.4,2040.0,2240.0
+Carpenter,Mid,Anarkali,10.7,2340.0,2520.0
+Electrician,Junior,Gulberg,76.1,1800.0,2360.0
+Cook,Junior,DHA Phase 5,57.5,1320.0,1690.0
+Security Guard,Senior,Model Town,69.6,2080.0,2790.0
+Cook,Mid,Gulberg,32.4,1720.0,2170.0
+Security Guard,Mid,Johar Town,70.7,1690.0,2350.0
+Driver,Mid,DHA Phase 5,11.2,3120.0,3420.0
+Plumber,Junior,DHA Phase 5,77.4,1440.0,2200.0
+Mason,Mid,Model Town,40.2,2080.0,2520.0
+Painter,Senior,Gulberg,94.2,2690.0,3900.0
+Plumber,Mid,Johar Town,11.7,1560.0,1640.0
+AC Technician,Junior,Gulberg,70.8,2400.0,3420.0
+AC Technician,Junior,Anarkali,81.0,2000.0,2920.0
+Electrician,Senior,DHA Phase 5,88.0,2880.0,4050.0
+Painter,Senior,Model Town,16.6,2240.0,2570.0
+Carpenter,Mid,Gulberg,78.4,2810.0,3810.0
+Carpenter,Mid,Gulberg,10.2,2810.0,2970.0
+AC Technician,Senior,DHA Phase 5,13.7,3840.0,3820.0
+Painter,Junior,DHA Phase 5,65.0,1680.0,2180.0
+Plumber,Senior,Anarkali,62.3,1920.0,2200.0
+Cook,Mid,DHA Phase 5,56.4,1720.0,2130.0
+Cook,Junior,Johar Town,69.3,1100.0,1490.0
+Electrician,Junior,Model Town,30.7,1500.0,1600.0
+Tutor,Mid,DHA Phase 5,37.4,1560.0,1940.0
+Security Guard,Senior,Model Town,34.2,2080.0,2380.0
+Security Guard,Mid,Anarkali,40.4,1690.0,1810.0
+Plumber,Senior,Johar Town,89.3,1920.0,2880.0
+Electrician,Senior,Model Town,63.9,2400.0,3130.0
+Welder,Senior,Model Town,15.9,2720.0,2870.0
+Security Guard,Mid,Johar Town,13.7,1690.0,1710.0
+Painter,Senior,Johar Town,50.0,2240.0,2940.0
+Electrician,Mid,DHA Phase 5,52.9,2340.0,3090.0
+Painter,Mid,Anarkali,84.9,1820.0,2620.0
+Security Guard,Junior,Model Town,38.9,1300.0,1670.0
+Electrician,Mid,Johar Town,81.7,1950.0,2550.0
+Electrician,Senior,Johar Town,27.5,2400.0,2720.0
+Security Guard,Mid,Johar Town,71.0,1690.0,2220.0
+Tutor,Senior,Gulberg,11.2,1920.0,1940.0
+Plumber,Mid,DHA Phase 5,25.4,1870.0,1940.0
+Mason,Junior,Johar Town,47.9,1600.0,1870.0
+Tutor,Mid,Gulberg,70.2,1560.0,2260.0
+Tutor,Mid,Anarkali,40.5,1300.0,1570.0
+Plumber,Senior,DHA Phase 5,27.5,2300.0,2710.0
+Mason,Junior,DHA Phase 5,48.2,1920.0,2490.0
+Cook,Junior,Johar Town,83.1,1100.0,1600.0
+Welder,Senior,DHA Phase 5,47.6,3260.0,4060.0
+Carpenter,Junior,Anarkali,42.9,1800.0,2320.0
+Tutor,Junior,Model Town,94.5,1000.0,1500.0
+Mason,Senior,Anarkali,68.5,2560.0,3490.0
+Gardener,Senior,Anarkali,89.6,1440.0,2060.0
+Gardener,Senior,Johar Town,77.3,1440.0,2050.0
+Plumber,Senior,Johar Town,67.1,1920.0,2460.0
+Mason,Senior,Gulberg,93.9,3070.0,4550.0
+Electrician,Mid,Johar Town,69.4,1950.0,2430.0
+Mason,Mid,Johar Town,86.7,2080.0,2920.0
+AC Technician,Senior,Model Town,13.3,3200.0,3260.0
+Tutor,Junior,Johar Town,14.0,1000.0,1140.0
+Carpenter,Senior,Anarkali,68.3,2880.0,3770.0
+Cook,Mid,Anarkali,46.1,1430.0,1760.0
+Cook,Senior,DHA Phase 5,38.0,2110.0,2400.0
+Driver,Junior,Gulberg,16.3,2400.0,2590.0
+Carpenter,Junior,Johar Town,33.4,1800.0,2150.0
+Carpenter,Mid,Model Town,43.4,2340.0,2820.0
+Carpenter,Senior,DHA Phase 5,73.2,3460.0,4840.0
+Cook,Junior,Gulberg,27.0,1320.0,1700.0
+Cook,Junior,DHA Phase 5,48.3,1320.0,1650.0
+Gardener,Junior,Johar Town,28.5,900.0,930.0
+Gardener,Junior,Johar Town,52.4,900.0,1320.0
+Painter,Senior,DHA Phase 5,16.3,2690.0,3030.0
+Gardener,Mid,Anarkali,32.2,1170.0,1410.0
+Painter,Mid,DHA Phase 5,79.8,2180.0,3000.0
+Security Guard,Senior,Model Town,81.6,2080.0,2880.0
+Painter,Mid,Model Town,61.4,1820.0,2480.0
+Mason,Mid,DHA Phase 5,48.9,2500.0,2970.0
+Welder,Junior,Johar Town,39.7,1700.0,2150.0
+Welder,Senior,DHA Phase 5,39.3,3260.0,4040.0
+AC Technician,Mid,Model Town,76.3,2600.0,3620.0
+Carpenter,Mid,Gulberg,15.9,2810.0,3040.0
+Welder,Junior,Anarkali,88.6,1700.0,2510.0
+Tutor,Junior,DHA Phase 5,32.7,1200.0,1270.0
+Mason,Mid,Gulberg,38.8,2500.0,2950.0
+Carpenter,Senior,Johar Town,55.7,2880.0,3560.0
+Driver,Junior,DHA Phase 5,62.3,2400.0,3020.0
+Gardener,Junior,Gulberg,56.1,1080.0,1220.0
+AC Technician,Junior,DHA Phase 5,65.0,2400.0,3190.0
+Plumber,Junior,Gulberg,53.7,1440.0,1810.0
+Tutor,Junior,DHA Phase 5,64.9,1200.0,1660.0
+Welder,Mid,DHA Phase 5,49.6,2650.0,3300.0
+Welder,Junior,Johar Town,35.9,1700.0,2060.0
+Plumber,Senior,Gulberg,19.6,2300.0,2380.0
+Plumber,Senior,Johar Town,84.6,1920.0,2550.0
+Gardener,Junior,Model Town,93.3,900.0,1320.0
+Carpenter,Mid,Johar Town,55.6,2340.0,3060.0
+Mason,Senior,DHA Phase 5,23.8,3070.0,3550.0
+Gardener,Mid,Anarkali,14.3,1170.0,1300.0
+Welder,Mid,Model Town,76.9,2210.0,3010.0
+AC Technician,Mid,Anarkali,67.9,2600.0,3540.0
+Welder,Senior,Model Town,10.6,2720.0,2920.0
+Security Guard,Senior,Gulberg,92.7,2500.0,3660.0
+Tutor,Junior,Johar Town,57.6,1000.0,1220.0
+Driver,Mid,Anarkali,82.2,2600.0,3740.0
+AC Technician,Mid,Gulberg,64.7,3120.0,4130.0
+Painter,Senior,Anarkali,34.5,2240.0,2560.0
+Welder,Senior,Johar Town,32.2,2720.0,3220.0
+Driver,Junior,DHA Phase 5,41.6,2400.0,2940.0
+Electrician,Mid,Anarkali,28.5,1950.0,2400.0
+Carpenter,Junior,Johar Town,33.7,1800.0,2120.0
+Security Guard,Mid,Johar Town,78.1,1690.0,2220.0
+Plumber,Junior,Johar Town,58.7,1200.0,1600.0
+AC Technician,Junior,Model Town,45.0,2000.0,2410.0
+Gardener,Junior,Model Town,81.8,900.0,1170.0
+Plumber,Mid,DHA Phase 5,28.0,1870.0,2350.0
+Cook,Senior,Johar Town,35.9,1760.0,2040.0
+Electrician,Junior,Gulberg,55.2,1800.0,2300.0
+Carpenter,Mid,Gulberg,81.0,2810.0,3920.0
+Driver,Senior,Johar Town,50.2,3200.0,3970.0
+Driver,Junior,Gulberg,26.9,2400.0,2620.0
+Plumber,Mid,Johar Town,58.4,1560.0,1990.0
+Gardener,Senior,Johar Town,31.4,1440.0,1620.0
+Gardener,Mid,Anarkali,78.1,1170.0,1530.0
+Welder,Senior,Anarkali,76.9,2720.0,3820.0
+Mason,Mid,DHA Phase 5,58.1,2500.0,3260.0
+Plumber,Senior,Johar Town,73.7,1920.0,2620.0
+AC Technician,Mid,Model Town,43.1,2600.0,3090.0
+Tutor,Senior,Model Town,40.1,1600.0,1760.0
+Driver,Junior,Model Town,61.7,2000.0,2710.0
+Carpenter,Senior,Gulberg,59.6,3460.0,4480.0
+Tutor,Junior,Gulberg,22.5,1200.0,1400.0
+Welder,Mid,Gulberg,43.8,2650.0,3180.0
+AC Technician,Mid,Anarkali,87.7,2600.0,3610.0
+Cook,Senior,Model Town,83.6,1760.0,2500.0
+Security Guard,Junior,Model Town,69.8,1300.0,1730.0
+Electrician,Mid,Model Town,12.7,1950.0,1950.0
+Mason,Mid,Anarkali,18.6,2080.0,2460.0
+Gardener,Mid,Model Town,12.4,1170.0,1170.0
+Welder,Junior,DHA Phase 5,65.6,2040.0,2760.0
+Tutor,Junior,Anarkali,93.7,1000.0,1340.0
+Cook,Junior,Gulberg,75.4,1320.0,1950.0
+Mason,Mid,Anarkali,94.4,2080.0,3010.0
+Mason,Junior,Model Town,12.2,1600.0,1920.0
+Carpenter,Junior,Anarkali,49.1,1800.0,2220.0
+Mason,Mid,Johar Town,48.0,2080.0,2660.0
+Tutor,Mid,Model Town,36.9,1300.0,1400.0
+Tutor,Junior,DHA Phase 5,52.8,1200.0,1560.0
+Driver,Senior,Anarkali,78.6,3200.0,4320.0
+Tutor,Senior,DHA Phase 5,63.8,1920.0,2630.0
+Driver,Senior,Gulberg,87.3,3840.0,5610.0
+Tutor,Mid,Gulberg,45.4,1560.0,1990.0
+Carpenter,Mid,Gulberg,65.3,2810.0,3620.0
+Security Guard,Junior,Model Town,80.4,1300.0,1690.0
+Electrician,Senior,Johar Town,32.6,2400.0,2680.0
+Plumber,Senior,Johar Town,51.5,1920.0,2320.0
+Driver,Junior,DHA Phase 5,28.9,2400.0,2760.0
+Carpenter,Mid,Gulberg,49.3,2810.0,3330.0
+Carpenter,Mid,Model Town,63.1,2340.0,3160.0
+Tutor,Senior,Anarkali,74.1,1600.0,2070.0
+Cook,Mid,Gulberg,68.1,1720.0,2210.0
+Plumber,Junior,DHA Phase 5,20.5,1440.0,1780.0
+Security Guard,Junior,DHA Phase 5,67.7,1560.0,2070.0
+Tutor,Senior,Anarkali,43.8,1600.0,1910.0
+AC Technician,Mid,DHA Phase 5,85.5,3120.0,4470.0

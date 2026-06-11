@@ -1,0 +1,8 @@
+/* App-specific overrides can be added here */
+.premium-glow {
+  box-shadow: 0 0 15px rgba(232, 101, 26, 0.2);
+}
+
+.card-glow {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
