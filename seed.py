@@ -70,6 +70,40 @@ async def seed_database():
     admin_res = await db.users.insert_one(admin_user)
     admin_id = str(admin_res.inserted_id)
 
+    # Seed dedicated demo worker account (worker@hunar.pk / hunar123)
+    demo_worker_user = {
+        "name": "Demo Worker",
+        "email": "worker@hunar.pk",
+        "password": password_hash,
+        "role": "worker",
+        "created_at": datetime.utcnow()
+    }
+    demo_w_res = await db.users.insert_one(demo_worker_user)
+    demo_w_id = str(demo_w_res.inserted_id)
+
+    demo_worker_profile = {
+        "user_id": demo_w_id,
+        "name": "Demo Worker",
+        "skills": ["Electrician", "Plumber"],
+        "location": "Gulberg",
+        "hourly_rate": 200.0,
+        "experience_years": 5,
+        "rating_history": 4.7,
+        "job_completion_rate": 0.95,
+        "cancellation_history": 0,
+        "response_time_hours": 1.5,
+        "reliability_score": 88.0,
+        "reliability_badge": "Gold",
+        "kyc_status": "verified",
+        "is_available": True,
+        "total_jobs": 45,
+        "disputes": 0,
+        "on_time_rate": 95.0,
+        "created_at": datetime.utcnow()
+    }
+    await db.workers.insert_one(demo_worker_profile)
+    print("Demo worker (worker@hunar.pk) seeded.")
+
     # 2. Seed 100 Unique Workers
     print("Generating and seeding 100 unique worker profiles...")
     
