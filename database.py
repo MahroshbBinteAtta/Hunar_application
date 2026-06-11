@@ -14,18 +14,19 @@ MONGODB_URL = os.getenv("MONGODB_URL", "mongodb://localhost:27017")
 DATABASE_NAME = os.getenv("DATABASE_NAME", "hunar_db")
 
 # URL-escape username/password if special characters are present
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, unquote
 if "mongodb+srv://" in MONGODB_URL or "mongodb://" in MONGODB_URL:
     try:
         prefix = "mongodb+srv://" if "mongodb+srv://" in MONGODB_URL else "mongodb://"
         rest = MONGODB_URL[len(prefix):]
         if "@" in rest:
-            userinfo, hostinfo = rest.split("@", 1)
+            # Split from the right to handle cases where the password contains @
+            userinfo, hostinfo = rest.rsplit("@", 1)
             if ":" in userinfo:
                 username, password = userinfo.split(":", 1)
-                # Only escape if not already percent-encoded
-                escaped_user = username if "%" in username else quote_plus(username)
-                escaped_pass = password if "%" in password else quote_plus(password)
+                # Unquote first to avoid double-encoding, then escape properly
+                escaped_user = quote_plus(unquote(username))
+                escaped_pass = quote_plus(unquote(password))
                 MONGODB_URL = f"{prefix}{escaped_user}:{escaped_pass}@{hostinfo}"
     except Exception:
         pass
